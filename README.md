@@ -21,6 +21,12 @@ O projeto tem por finalidade construir um sistema de busca rápido, eficiênte e
 
 O sistema é projetado para ser escalável, garantindo buscas eficientes mesmo com um catálogo extenso. A inclusão de cache reduz o tempo de resposta em pesquisas repetidas.
 
+### 📂PASTAS
+
+Neste repositório tem as seguintes pastas:
+- Sistema-Busca: Está o código completo
+- testes: Testes unitários de partes do código completo
+
 ### 🤝 Como contribuir
 
 Quer melhorar esse projeto? Sinta-se à vontade para contribuir!
