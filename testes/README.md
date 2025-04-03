@@ -7,3 +7,7 @@ Nesta parte está o código da pasta **"Sistema-Busca"** dividido em 3 partes pa
 Para validar o funcionamento do sistema, execute esse comando nos 3 códigos da pasta:
 
 - **cargo test**
+
+### ❗OBSERVAÇÃO
+
+Um codigo está com erro, um campo especifico, tente arrumar😁.
